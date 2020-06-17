@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="Suite" parallel="classes" thread-count="40">
+
+   <!-- <test preserve-order="true" name="API Test">
+    <classes>
+      <class name="Enews_Testcases.TC_01_Frontdoor" />
+      </classes>
+      </test>
+      
+    <test preserve-order="true" name="API Test1">
+    <classes>
+      <class name="Enews_Testcases.TC_02_Explore" />
+      </classes>
+      </test>
+      
+       <test preserve-order="true" name="API Test2">
+    <classes>
+      <class name="Enews_Testcases.TC_03_FullEpisodes" />
+      </classes>
+      </test>
+      
+      <test preserve-order="true" name="API Test3">
+    <classes>
+      <class name="Enews_Testcases.TC_04_LatestNews" />
+      </classes>
+      </test>
+      
+      <test preserve-order="true" name="API Test4">
+    <classes>
+      <class name="Enews_Testcases.TC_05_TVNews" />
+      </classes>
+      </test>
+      
+      <test preserve-order="true" name="API Test5">
+    <classes>
+      <class name="Enews_Testcases.TC_06_Fashionweek" />
+      </classes>
+      </test>
+      
+      <test preserve-order="true" name="API Test6">
+    <classes>
+      <class name="Enews_Testcases.TC_07_Royals" />
+      </classes>
+      </test>
+      
+      <test preserve-order="true" name="API Test7">
+    <classes>
+      <class name="Enews_Testcases.TC_08_Kardashians" />
+      </classes>
+      </test>
+      
+      <test preserve-order="true" name="API Test8">
+    <classes>
+      <class name="Enews_Testcases.TC_09_Couples" />
+      </classes>
+      </test>
+      
+      <test preserve-order="true" name="API Test9">
+    <classes>
+      <class name="Enews_Testcases.TC_10_Style" />
+      </classes>
+      </test>
+      
+      <test preserve-order="true" name="API Test10">
+    <classes>
+      <class name="Enews_Testcases.TC_11_FeelGood" />
+      </classes>
+      </test>
+      
+       <test preserve-order="true" name="API Test11">
+    <classes>
+      <class name="Enews_Testcases.TC_12_RedCarpet" />
+      </classes>
+      </test> 
+      
+       <test preserve-order="true" name="API Test12">
+    <classes>
+      <class name="Enews_Testcases.TC_13_EShows" />
+      </classes>
+      </test>
+      
+        <test preserve-order="true" name="API Test13">
+    <classes>
+      <class name="Enews_Testcases.TC_14_EShowsCalendarSchedule" />
+      </classes>
+      </test>
+      
+      <test preserve-order="true" name="API Test14">
+    <classes>
+      <class name="Enews_Testcases.TC_15_Settings" />
+      </classes>
+      </test>
+      
+       <test preserve-order="true" name="API Test15">
+    <classes>
+      <class name="Enews_Testcases.TC_16_VLP" />
+      </classes>
+      </test>  
+ -->      
+     <!--  <test preserve-order="true" name="API Test16">
+    <classes>
+      <class name="Enews_Testcases.TC_17_Frontdoorarticle" />
+      </classes>
+      </test> 
+      
+      <test preserve-order="true" name="API Test17">
+    <classes>
+      <class name="Enews_Testcases.TC_18_FrontdoorVideos_API" />
+      </classes>
+      </test> 
+      
+      <test preserve-order="true" name="API Test18">
+    <classes>
+      <class name="Enews_Testcases.TC_19_FrontdoorPhotos_API" />
+      </classes>
+      </test>  -->
+      
+      <test preserve-order="true" name="API Test19">
+    <classes>
+      <class name="Enews_Testcases.TC_20_FDArticlelink_API" />
+      </classes>
+      </test> 
+      
+     <!--  <test preserve-order="true" name="API Test20">
+    <classes>
+      <class name="Enews_Testcases.TC_21_FDVideolink_API" />
+      </classes>
+      </test>  -->
+      
+      
+      
+</suite> <!-- Suite -->

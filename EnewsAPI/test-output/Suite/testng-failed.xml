@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="40" parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="40" parallel="classes" name="API Test16(failed)">
+    <classes>
+      <class name="Enews_Testcases.TC_17_Frontdoorarticle">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="setData"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="frontdoorapi"/>
+        </methods>
+      </class> <!-- Enews_Testcases.TC_17_Frontdoorarticle -->
+    </classes>
+  </test> <!-- API Test16(failed) -->
+</suite> <!-- Failed suite [Suite] -->
